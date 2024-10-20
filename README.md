@@ -20,4 +20,4 @@ The dataset contains 426,880 records,from Craigslist.org.
 Explore important features and also answer important questions concerning the data
 
 # References
-[NEO Hazard prediction score 96%](https://www.kaggle.com/code/mohamedelsayedaffan/neo-hazard-prediction-score-96)
+MLSC Data Science and Machine Learning Bootcamp material 
